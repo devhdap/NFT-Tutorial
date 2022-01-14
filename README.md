@@ -121,7 +121,7 @@ main()
 
 // Go to https://www.alchemyapi.io, sign up, create
 // a new App in its dashboard and select the network as Rinkeby, and replace "add-the-alchemy-key-url-here" 
-//with its key url (https one, not the wss:// one)
+//with its key url (https:// one, not the wss:// one)
 //ALCHEMY_API_KEY_URL="add-the-alchemy-key-url-here"
 
 // Replace this private key with your RINKEBY account private key
